@@ -1,0 +1,20 @@
+Q = 1.927034 Coulombs
+
+
+Q = 12.263304 Coulombs
+
+
+
+Net Charge:
+
+10.336270 C
+
+
+
+Normalized E Fields:
+
+-4048.525538 V/m
+
+-4024.798139 V/m
+
+-5841.895806 V/m

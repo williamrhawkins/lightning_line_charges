@@ -1,0 +1,5 @@
+Q = 12.954541 Coulombs
+
+Normalized E Fields:
+-2614.998287 V/m
+-3103.090043 V/m
