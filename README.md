@@ -7,7 +7,11 @@ over the line to produce a system of equations which is solved for each E-Field 
 the charge transferred in the lightning flash. 
 
 LCD_MAIN.m - The main script file.
+
 intergrl.m - Function for integrating the best fit lines.
+
 princom.m  - Function for performing principal components analysis on the LMA/LDAR data.
+
 field.txt  - User entered delta - E values for each field mill.
+
 mills.txt  - Coordinates for each field mill at Kennedy Space Center.
