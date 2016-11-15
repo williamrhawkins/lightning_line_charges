@@ -1,9 +1,0 @@
-IC Flash. 
-Q = 5.504428 Coulombs
-
-Q = 5.504429 Coulombs
-
-Normalized E Fields:
--4368.814371 V/m
--4557.528172 V/m
--4973.896497 V/m
