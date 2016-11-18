@@ -1,0 +1,20 @@
+CG Flash.
+
+Negatives:
+
+Positives:
+Q1 = 14.123237 C
+
+Net Charge:
+14.123237 C
+
+
+Normalized E Fields:
+-44.793008 V/m
+-49.519435 V/m
+-171.096037 V/m
+
+Residuals:
+105.206992 V/m
+150.480565 V/m
+71.096037 V/m
