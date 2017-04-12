@@ -1,4 +1,4 @@
-# Lightning-Charge-Distributions
+# lightning_line_charges
 MATLAB suite that solves for charge transfer in a lightning flash using LMA/LDAR and E-Field data. To find
 the charge transfer, we create lines of best fit corresponding to regions of charge and their
 images, identified by the LMA/LDAR data. The lines are produced using a dimension reduction technique
